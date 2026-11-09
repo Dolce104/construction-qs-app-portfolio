@@ -161,11 +161,6 @@ Overview of tender opportunities and tender workflows.
 
 ![Tender Overview](screenshots/tender-overview.png)
 
-### Estimating
-Pricing and estimating functionality for construction tenders.
-
-![Estimating](screenshots/estimating.png)
-
 ### Project Management
 Project-level overview and coordination.
 
@@ -180,6 +175,11 @@ Financial overview and commercial administration at project level.
 Managing organisation users, roles and access permissions.
 
 ![User Management](screenshots/user-management.png)
+
+### Layout
+Overall layout
+
+![Estimating](screenshots/layout.png)
 
 ## Additional Documentation
 
