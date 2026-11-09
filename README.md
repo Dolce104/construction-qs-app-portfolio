@@ -109,6 +109,35 @@ My responsibilities have included:
 - Debugging, application testing and troubleshooting.
 - Source control and ongoing development using Git and GitHub.
 
+## Technical Challenges and Engineering Decisions
+
+### 1. Multi-Tenant Application Architecture
+
+Designed the application to support multiple independent construction businesses within a shared platform.
+
+- Developed an organisation-based data architecture.
+- Implemented organisation-level data separation.
+- Considered tenant isolation throughout database design and backend API development.
+- Designed the system to support multiple users and organisations.
+
+### 2. Role-Based Access Control
+
+Developed an access-control system to manage permissions across different organisational roles.
+
+- Implemented user roles and permission-based access.
+- Designed access restrictions around different responsibilities within construction businesses.
+- Applied server-side authorisation to protect restricted functionality and business information.
+- Considered financial data visibility and access restrictions.
+
+### 3. Relational Database Design and Business Logic
+
+Designed the database and backend functionality to support interconnected construction business workflows.
+
+- Developed relational database structures using PostgreSQL and Prisma ORM.
+- Built REST APIs using Node.js and Express.
+- Implemented backend business logic for tenders, projects and financial workflows.
+- Used request validation to improve data integrity and API reliability.
+
 ## Project Status
 
 The application has progressed through its core development and testing stages and is being prepared for beta release.
