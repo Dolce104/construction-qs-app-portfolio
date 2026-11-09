@@ -144,9 +144,47 @@ The application has progressed through its core development and testing stages a
 
 Development is ongoing, with a focus on final validation, usability and preparing the platform for initial users.
 
-## Screenshots
+## Application Screenshots
 
-Screenshots of the application will be added here to demonstrate the user interface and major workflows.
+### Main Dashboard
+Overview of business activity and key operational information.
+
+![Main Dashboard](screenshots/main-dashboard.png)
+
+### Customer Relationship Management
+Managing business opportunities, leads and customer relationships.
+
+![CRM Dashboard](screenshots/crm-dashboard.png)
+
+### Tender Management
+Overview of tender opportunities and tender workflows.
+
+![Tender Overview](screenshots/tender-overview.png)
+
+### Estimating
+Pricing and estimating functionality for construction tenders.
+
+![Estimating](screenshots/estimating.png)
+
+### Project Management
+Project-level overview and coordination.
+
+![Project Dashboard](screenshots/project-dashboard.png)
+
+### Project Financial Management
+Financial overview and commercial administration at project level.
+
+![Project Finance](screenshots/project-finance.png)
+
+### User and Access Management
+Managing organisation users, roles and access permissions.
+
+![User Management](screenshots/user-management.png)
+
+## Additional Documentation
+
+- [Application Architecture](architecture.md)
+- [Application Screenshots](#application-screenshots)
 
 ---
 
