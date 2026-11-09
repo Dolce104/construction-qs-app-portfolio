@@ -1,4 +1,4 @@
-
+```mermaid
 flowchart TB
     A["React Frontend<br/>TypeScript · Vite"]
     B["TanStack Query<br/>Zustand · Tailwind CSS"]
@@ -19,3 +19,4 @@ flowchart TB
     C --> G
     A -. deployed on .-> H
     C -. deployed on .-> I
+```
