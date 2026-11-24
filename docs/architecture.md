@@ -13,7 +13,7 @@ The system is designed as a multi-tenant SaaS application, allowing multiple con
 The following diagram illustrates the main application components
 and how they communicate.
 
-![System Architecture Diagram](../images/architecture-diagram.png)
+![System Architecture Diagram](../images/architecture-diagram.md)
 
 ## 3. Technology Stack
 
