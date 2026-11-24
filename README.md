@@ -184,6 +184,7 @@ Overall layout
 ## Additional Documentation
 
 - [Application Architecture](docs/architecture.md)
+- [Application Database Design](docs/database-design.md)
 - [Application Screenshots](#application-screenshots)
 
 ---
