@@ -183,7 +183,7 @@ Overall layout
 
 ## Additional Documentation
 
-- [Application Architecture](architecture.md)
+- [Application Architecture](docs/architecture.md)
 - [Application Screenshots](#application-screenshots)
 
 ---
